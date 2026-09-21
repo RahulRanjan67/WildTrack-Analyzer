@@ -1,0 +1,42 @@
+id,species,type,location,date,count,specific_value
+1,Red Fox,mammal,Misty Hollow,2026-03-02,2,5.4
+2,Barn Owl,bird,Cedar Marsh,2026-03-04,1,92
+3,Garter Snake,reptile,Silver Lake Reserve,2026-03-05,3,0.7
+4,White-tailed Deer,mammal,Ember Ridge,2026-03-07,5,68.2
+5,Mallard,bird,Silver Lake Reserve,2026-03-09,12,88
+6,Box Turtle,reptile,Cedar Marsh,2026-03-10,1,0.15
+7,Grey Wolf,mammal,Ember Ridge,2026-03-12,4,38.5
+8,Bald Eagle,bird,Dry Fork Basin,2026-03-14,2,205
+9,Green Iguana,reptile,Misty Hollow,2026-03-15,1,1.3
+10,Raccoon,mammal,Cedar Marsh,2026-03-17,3,7.1
+11,Great Blue Heron,bird,Silver Lake Reserve,2026-03-19,2,180
+12,Gopher Tortoise,reptile,Dry Fork Basin,2026-03-20,2,0.3
+13,Badger,mammal,Misty Hollow,2026-03-22,1,9.8
+14,Peregrine Falcon,bird,Ember Ridge,2026-03-24,1,100
+15,Eastern Fence Lizard,reptile,Ember Ridge,2026-03-25,4,0.16
+16,Brown Bear,mammal,Ember Ridge,2026-03-27,1,210
+17,Common Kingfisher,bird,Silver Lake Reserve,2026-03-29,2,25
+18,Garter Snake,reptile,Cedar Marsh,2026-04-01,2,0.65
+19,Red Fox,mammal,Dry Fork Basin,2026-04-02,1,5.9
+20,Barn Owl,bird,Misty Hollow,2026-04-04,2,95
+21,Green Iguana,reptile,Dry Fork Basin,2026-04-05,1,1.1
+22,White-tailed Deer,mammal,Misty Hollow,2026-04-07,6,72.4
+23,Mallard,bird,Cedar Marsh,2026-04-09,9,86
+24,Box Turtle,reptile,Silver Lake Reserve,2026-04-10,2,0.18
+25,Raccoon,mammal,Silver Lake Reserve,2026-04-12,2,6.8
+26,Bald Eagle,bird,Silver Lake Reserve,2026-04-14,1,198
+27,Gopher Tortoise,reptile,Ember Ridge,2026-04-15,1,0.34
+28,Grey Wolf,mammal,Dry Fork Basin,2026-04-17,3,41.2
+29,Great Blue Heron,bird,Cedar Marsh,2026-04-19,1,175
+30,Eastern Fence Lizard,reptile,Misty Hollow,2026-04-20,3,0.14
+31,Badger,mammal,Cedar Marsh,2026-04-22,1,10.4
+32,Peregrine Falcon,bird,Dry Fork Basin,2026-04-24,2,104
+33,Red Fox,mammal,Ember Ridge,2026-04-26,2,5.2
+34,Common Kingfisher,bird,Cedar Marsh,2026-04-28,1,24
+35,Garter Snake,reptile,Misty Hollow,2026-04-29,1,0.72
+36,Brown Bear,mammal,Misty Hollow,2026-05-01,2,185.5
+37,Barn Owl,bird,Ember Ridge,2026-05-03,1,89
+38,White-tailed Deer,mammal,Dry Fork Basin,2026-05-05,4,65.8
+39,Mallard,bird,Dry Fork Basin,2026-05-07,15,90
+40,Green Iguana,reptile,Cedar Marsh,2026-05-08,2,1.4
+
