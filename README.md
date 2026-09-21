@@ -1,0 +1,8 @@
+WildTrack Analyzer
+
+WildTrack Analyzer is a small command-line Python project for exploring wildlife observations. It is the first project in my CSE learning path. The observations in the CSV are made-up examples and are not real scientific data.
+The program can load observations of mammals, birds and reptiles from a CSV file and display them in a table. You can search by species or location, filter the data, view statistics using NumPy, see totals for species and locations, and add new observations. New observations stay in memory until you choose to save them.
+The project uses Python 3, NumPy and the built-in csv module. The main files are `main.py` for the menu, `models.py` for the observation classes, `data_manager.py` for loading, saving and reports, `analyzer.py` for searching, filtering and statistics, and `utils.py` for input validation.
+The project also uses classes, `__init__`, inheritance and method overriding. I also practiced reading and writing CSV files, turning CSV rows into objects, NumPy arrays and functions such as `sum`, `mean`, `median`, `min`, `max` and `std`, boolean masks, modules, loops, `try/except` and writing text files.
+To run it, install the dependency with `pip install -r requirements.txt` and then run `python main.py` from the project folder. The example data is in `data/observations.csv` and the generated report is saved as `reports/wildtrack_report.txt`.
+The main menu has options to view observations, search them, filter by species or location, view statistics, add an observation, save a report and exit. The program also checks user input such as numbers and dates before accepting it.
